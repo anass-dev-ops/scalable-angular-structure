@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## reference
 
-https://blog.adnanhalilovic.com/technologies/angular/scalable-angular-structure/#core-module
+https://blog.adnanhalilovic.com/technologies/angular/scalable-angular-structure/
 
 ## Development server
 
